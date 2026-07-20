@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Shivam 👋
 
-<!--
-**shivamsinghal1123/shivamsinghal1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Quality Engineer specializing in:
 
-Here are some ideas to get you started:
+• AI Evaluation
+• LLM Quality Engineering
+• Performance Engineering
+• Python Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+- LLM Evaluation Framework
+- PerfMind
+- Prompt Engineering Workflows
+- AI Evaluation Utilities
+
+## Core Expertise
+
+- Prompt Engineering
+- Prompt Evaluation
+- Golden Dataset Creation
+- Human Evaluation
+- LLM Evaluation
+- Performance Engineering
+- Python
+- AI Testing
+- API Testing
+
+## Tech Stack
+
+Python | Claude | OpenAI | Ollama | LangChain | LangGraph | JMeter | Playwright | Docker | Jenkins | Grafana
+
+## Featured Projects
+
+⭐ PerfMind
+
+⭐ LLM Evaluation Framework
+
+⭐ Token Counter
+
+⭐ AI Prompt Library
+
+⭐ Performance Utilities
